@@ -1,0 +1,14 @@
+{
+  "name": "@micromax720/how-to-npm",
+  "version": "0.0.1-0",
+  "description": "How to NPM",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "author": "Max <micromax720@outlook.com>",
+  "license": "MIT"
+}
